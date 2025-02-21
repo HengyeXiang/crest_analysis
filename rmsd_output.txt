@@ -1,0 +1,81 @@
+RMSD Values and Classification:
+Conformer 1: RMSD = 0.0000 Å
+Conformer 2: RMSD = 5.2925 Å
+Conformer 3: RMSD = 1.4963 Å
+Conformer 4: RMSD = 1.5111 Å
+Conformer 5: RMSD = 1.7246 Å
+Conformer 6: RMSD = 4.8005 Å
+Conformer 7: RMSD = 2.4659 Å
+Conformer 8: RMSD = 5.7172 Å
+Conformer 9: RMSD = 5.3970 Å
+Conformer 10: RMSD = 2.1284 Å
+Conformer 11: RMSD = 2.2674 Å
+Conformer 12: RMSD = 5.8326 Å
+Conformer 13: RMSD = 5.6422 Å
+Conformer 14: RMSD = 5.6743 Å
+Conformer 15: RMSD = 4.6330 Å
+Conformer 16: RMSD = 4.6402 Å
+Conformer 17: RMSD = 5.1224 Å
+Conformer 18: RMSD = 1.2814 Å
+Conformer 19: RMSD = 6.0602 Å
+Conformer 20: RMSD = 5.9360 Å
+Conformer 21: RMSD = 5.0223 Å
+Conformer 22: RMSD = 5.0755 Å
+Conformer 23: RMSD = 4.9649 Å
+Conformer 24: RMSD = 3.9572 Å
+Conformer 25: RMSD = 2.1249 Å
+Conformer 26: RMSD = 5.5449 Å
+Conformer 27: RMSD = 5.3131 Å
+Conformer 28: RMSD = 5.2945 Å
+Conformer 29: RMSD = 1.7812 Å
+Conformer 30: RMSD = 2.0863 Å
+Conformer 31: RMSD = 4.2727 Å
+Conformer 32: RMSD = 2.3185 Å
+Conformer 33: RMSD = 6.0224 Å
+Conformer 34: RMSD = 4.9934 Å
+Conformer 35: RMSD = 5.6362 Å
+Conformer 36: RMSD = 2.2735 Å
+Conformer 37: RMSD = 4.8897 Å
+Conformer 38: RMSD = 5.4654 Å
+Conformer 39: RMSD = 5.3826 Å
+Conformer 40: RMSD = 5.4354 Å
+Conformer 41: RMSD = 2.5008 Å
+Conformer 42: RMSD = 2.4259 Å
+Conformer 43: RMSD = 4.9713 Å
+Conformer 44: RMSD = 5.4931 Å
+Conformer 45: RMSD = 4.2542 Å
+Conformer 46: RMSD = 5.3966 Å
+Conformer 47: RMSD = 5.3720 Å
+Conformer 48: RMSD = 2.2864 Å
+Conformer 49: RMSD = 6.1028 Å
+Conformer 50: RMSD = 5.1963 Å
+Conformer 51: RMSD = 5.4570 Å
+Conformer 52: RMSD = 5.0596 Å
+Conformer 53: RMSD = 4.4934 Å
+Conformer 54: RMSD = 5.1327 Å
+Conformer 55: RMSD = 5.0240 Å
+Conformer 56: RMSD = 4.3742 Å
+Conformer 57: RMSD = 2.3641 Å
+Conformer 58: RMSD = 3.5693 Å
+Conformer 59: RMSD = 5.1566 Å
+Conformer 60: RMSD = 4.3903 Å
+Conformer 61: RMSD = 5.4596 Å
+Conformer 62: RMSD = 6.0743 Å
+Conformer 63: RMSD = 4.6261 Å
+Conformer 64: RMSD = 5.4682 Å
+Conformer 65: RMSD = 4.7208 Å
+Conformer 66: RMSD = 3.2025 Å
+Conformer 67: RMSD = 5.0352 Å
+Conformer 68: RMSD = 4.4010 Å
+Conformer 69: RMSD = 2.6080 Å
+Conformer 70: RMSD = 2.7363 Å
+Conformer 71: RMSD = 5.6064 Å
+Conformer 72: RMSD = 4.5362 Å
+Conformer 73: RMSD = 5.9755 Å
+Conformer 74: RMSD = 4.8870 Å
+
+Classification:
+Smaller Than 0.5: 1
+0.5 To 1.0: 
+1.0 To 2.0: 3, 4, 5, 18, 29
+Above 2.0: 2, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74
