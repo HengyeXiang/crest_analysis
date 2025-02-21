@@ -3,7 +3,7 @@ These scripts can become quite useful after you finished CREST runs and wants to
 Main functionalities: 
 1) file conversion of each conformer into gaussian 16 input file;
 2) calculate bond distances/bond angles/dihedrals for each conformer, save values into .txt file, generate and save corresponding scatter plots;
-   
+
    For using the script, try the following commands:
    python3 xyz2com_crest_pc.py -l 1 2 (calculate distance between atom 1 and 2)
    python3 xyz2com_crest_pc.py -a 1 2 3 (calculate angle between atom 1,2 and 3)
